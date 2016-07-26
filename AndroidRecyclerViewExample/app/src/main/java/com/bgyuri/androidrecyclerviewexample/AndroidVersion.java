@@ -11,8 +11,8 @@ public class AndroidVersion {
         return recyclerViewTitleText;
     }
 
-    public void setAndroidVersionName(String recyclerVietTitleText) {
-        this.recyclerViewTitleText = recyclerVietTitleText;
+    public void setAndroidVersionName(String recyclerViewTitleText) {
+        this.recyclerViewTitleText = recyclerViewTitleText;
     }
 
     public int getrecyclerViewImage() {
